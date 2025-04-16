@@ -1,5 +1,5 @@
 export const SITE = {
-  website: "https://mohankumargupta.github.io", // replace this with your deployed domain
+  website: "https://mohankumargupta.github.io/", // replace this with your deployed domain
   author: "Sat Naing",
   profile: "https://github.com/mohankumargupta/astro-paper-example",
   desc: "Testing capability of Astro Paper for recording meeting notes.",
